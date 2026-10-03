@@ -9,8 +9,8 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/brass-compass",
-    "sources": "https://git.cubealgos.de/cubealgos/create_brass_compass",
-    "issues": "https://github.com/cubealgos/create_brass_compass/issues"
+    "sources": "https://github.com/cubealgos-mods/create_brass_compass",
+    "issues": "https://github.com/cubealgos-mods/create_brass_compass/issues"
   },
   "license": "MIT",
   "environment": "*",
